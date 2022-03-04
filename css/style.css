@@ -1,0 +1,115 @@
+/* &display=swap */
+
+@import "null.css";
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
+@font-face {
+	font-family: "CircularStd";
+	src: url("../fonts/CircularStd-Black.woff2<") format("woff2"), url("../fonts/CircularStd-Black.woff<") format("woff");
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "CircularStd";
+	src: url("../fonts/CircularStd-Medium.woff2<") format("woff2"), url("../fonts/CircularStd-Medium.woff<") format("woff");
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "CircularStd";
+	src: url("../fonts/CircularStd-Book.woff2<") format("woff2"), url("../fonts/CircularStd-Book.woff<") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "CircularStd";
+	src: url("../fonts/CircularStd-Bold.woff2<") format("woff2"), url("../fonts/CircularStd-Bold.woff<") format("woff");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+.blog {
+}
+
+.block1 {
+	text-align: center;
+}
+
+.main-title {
+	color: red;
+	font-size: 36px;
+	font-style: italic;
+}
+
+.main-text {
+	font-size: 24px;
+}
+
+.img1 {
+}
+
+.second-main-text {
+	font-weight: 900;
+}
+
+.block2 {
+	text-shadow: 3px 4px 5px #000;
+}
+
+.title2 {
+}
+
+.text2 {
+}
+
+.list1 {
+}
+
+.list2 {
+}
+
+.last-text2 {
+}
+
+.block3 {
+}
+
+.title3 {
+	text-transform: uppercase;
+}
+
+.text-3 {
+}
+
+.list-3 {
+	color: green;
+	text-transform: capitalize;
+	font-style: italic;
+}
+
+.text-3-1 {
+}
+
+.block-4 {
+	line-height: 36px;
+}
+
+.text-4 {
+}
+
+.list4 {
+}
+
+.block5 {
+	word-spacing: 3px;
+}
+
+.title-5 {
+	letter-spacing: 3px;
+}
+
+.text-5 {
+}

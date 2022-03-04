@@ -1,0 +1,50 @@
+/* &display=swap */
+
+@import "null.css";
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
+
+body {
+	font-family: "Lato";
+}
+
+.header {
+}
+.blog {
+	color: #424551;
+	font-size: 16px;
+	line-height: 160%;
+}
+.block1 {
+}
+.title {
+	text-align: center;
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	color: #1e212c;
+}
+.img {
+	text-align: center;
+}
+.main-text {
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1e212c;
+}
+
+.second-text {
+}
+
+.block2 {
+}
+.text-2 {
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1e212c;
+}
+.footer {
+}
+.list {
+}
